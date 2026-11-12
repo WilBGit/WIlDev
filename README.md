@@ -13,7 +13,7 @@ This repository is kept separate from the newer backend project because it repre
 
 For the active backend and AI content workflow, use:
 
-https://github.com/example-org/WillDev
+https://github.com/WilBGit/alpha-trading-floor
 
 ## Safe handling
 
