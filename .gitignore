@@ -1,0 +1,17 @@
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime and generated state
+*.log
+*.sqlite
+*.sqlite3
+*.db
+.DS_Store
